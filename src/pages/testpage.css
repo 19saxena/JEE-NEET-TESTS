@@ -1,0 +1,4 @@
+.hidden-all-else {
+    display: none !important; /* Hides any leftover elements */
+  }
+  
